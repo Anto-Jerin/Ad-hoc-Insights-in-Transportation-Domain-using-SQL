@@ -1,2 +1,19 @@
-# Ad-hoc-Insights-in-Transportation-Domain-using-SQL
-Goodcabs is a cab service company that was established 2 years ago and now has gained strong foothold in tier 2 cities in India. With operations in 10 tier 2 cities in India, Goodcabs has set ambitious performance targets for 2024. Help the management team to access company's performance across key metrics.
+
+## Ad-hoc Insights for Goodcabs
+
+Goodcabs, a cab service company established two years ago operates in ten tier-2 cities across India. Goodcabs has set ambitious performance targets for 2024 to drive growth and improve passenger satisfaction. As a data analyst help the Goodcabs management team to assess the company’s performance across key metrics. 
+
+## Techniques Used
+
+* Window Functions
+* Aggregations
+* Joins
+* CTE
+* Case Statements
+* Group By
+* Date Calculations
+
+## Data Model
+
+![App Screenshot](https://www.dropbox.com/scl/fi/gjnkhsm23x91669vaif9f/Transportation-data-Model.png?rlkey=4st4az0mpro5semyuwb9q1ghl&st=5oqkje7i&dl=0)
+

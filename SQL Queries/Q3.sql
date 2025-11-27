@@ -1,6 +1,3 @@
-DECLARE @cols NVARCHAR(MAX), @query NVARCHAR(MAX);
-
-
 With Total_RP_By_City_RepeatCnt as
 (
     select 
