@@ -12,6 +12,7 @@ Goodcabs, a cab service company established two years ago operates in ten tier-2
 * Case Statements
 * Group By
 * Date Calculations
+* DDL & DML
 
 ## Data Model
 
